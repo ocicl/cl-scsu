@@ -1,0 +1,10 @@
+* cl-scsu
+
+An implementation of "Standard Compression Scheme for Unicode" by Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/y2q-actionman/cl-scsu.git   |
+| commit  | d24cabc  |
+| systems | cl-scsu |
+|---------+-------------------------------------------|
+
